@@ -1,5 +1,4 @@
 # my-web-portfolio
-my web portfolio for web development
 This project features a responsive personal portfolio website developed with HTML, CSS, and JavaScript.
 It highlights personal projects, background details, and contact information.
 
